@@ -4,7 +4,7 @@ This application includes the function of calculating currency exchange rates fr
 ## Scope & Functionalities
 - Users can enter numbers
 - User can touch the calculate button
-- Users get "INVALID" info if what is entered is in text
+- Users get "INVALID" info if what is entered isn't a number
 
 ## How Does it works?
 Diawali dari method MainWindows pada class `MainWindows.Xaml.cs`, Lengkapnya sebagai berikut;
