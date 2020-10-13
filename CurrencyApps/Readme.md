@@ -54,12 +54,12 @@ public string usdToIdr(string nominal)
 
 ## Jawaban No 1
 - **Percobaan 1**
-  - jika kita memasukan angka berapapun pada textbox kemudian kita klik button hitung, maka yang akan keluar adalah sama seperti angka yang kita masukan
+  - jika kita memasukan angka berapapun pada textbox kemudian kita klik button Calculate, maka yang akan keluar adalah sama seperti angka yang kita masukan
 - **Percobaan 2**
-  - jika kita memasukan sebarang angka pada textbox dan kita klik button hitung maka angka tersebut akan dikalikan 15000 `(var result = nominalDouble * 15000;)`.
+  - jika kita memasukan sebarang angka pada textbox dan kita klik button Calculate maka angka tersebut akan dikalikan 15000 `(var result = nominalDouble * 15000;)`.
   - jika kita  memasukan sembarang huruf pada textbox maka akan terjadi carsh, karena kita baru membuat fugsi yang bisa meghitung angka.
 - **Percobaan 3**
-  - jika kita memasukan sebarang angka pada textbox dan kita klik button hitung maka angka tersebut akan dikalikan 15000 `(var result = nominalDouble * 15000;)`.
+  - jika kita memasukan sebarang angka pada textbox dan kita klik button Calculate maka angka tersebut akan dikalikan 15000 `(var result = nominalDouble * 15000;)`.
   - jika kita memasukan huruf ke text box akan menampilkan kalimat "INVALID".
 
 ## Jawaban No 2
