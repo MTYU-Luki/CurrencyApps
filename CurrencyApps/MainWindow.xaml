@@ -9,9 +9,9 @@
     <Grid Margin="0,0,386,0">
         <Label Content="USD" HorizontalAlignment="Left" Margin="18,21,-118,0" VerticalAlignment="Top" Width="100"/>
         <TextBox x:Name="InputTextBox" HorizontalAlignment="Left" Height="23" Margin="18,52,-169,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" Text="0"/>
-        <Label Content="Nilai tukar rupiah" HorizontalAlignment="Left" Margin="18,119,-169,0" VerticalAlignment="Top" Width="151"/>
+        <Label Content="Rupiah Exchange Rate" HorizontalAlignment="Left" Margin="18,119,-169,0" VerticalAlignment="Top" Width="151"/>
         <Label x:Name="resultLabel" Content="0" HorizontalAlignment="Left" Margin="18,154,-118,0" VerticalAlignment="Top" Width="100"/>
-        <Button Content="Hitung" HorizontalAlignment="Left" Margin="18,94,-169,0" VerticalAlignment="Top" Width="151" Click="Button_Hitung_Click"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="18,94,-169,0" VerticalAlignment="Top" Width="151" Click="Button_Hitung_Click"/>
         </Grid>
 
 </Window>
